@@ -1,6 +1,6 @@
 # 🌡️ Rede IoT com ESP-NOW — Monitoramento Ambiental
 
-> Sistema de monitoramento de temperatura e umidade em tempo real usando ESP32, protocolo ESP-NOW e Adafruit IO. Desenvolvido para a disciplina de **Sistemas Ciberfísicos Colaborativos** — Universidade de Fortaleza (UNIFOR).
+> Sistema de monitoramento de temperatura e umidade em tempo real usando ESP32, protocolo ESP-NOW e Adafruit IO. Desenvolvido para a disciplina de **Sistemas Ciberfísicos Colaborativos** 
 
 ---
 
@@ -169,13 +169,6 @@ Os dados são exibidos em tempo real no Adafruit IO com dois gauges:
 - [ ] Migrar para ESP-Mesh para redes com mais nós
 - [ ] Implementar OTA (Over-the-Air update)
 - [ ] Persistência local com cartão SD em caso de falha MQTT
-
----
-
-## 👥 Equipe
-
-Desenvolvido por **EQUIPE03** — Disciplina de Sistemas Ciberfísicos Colaborativos  
-**Universidade de Fortaleza (UNIFOR)** · Centro de Ciências Tecnológicas · Ciência da Computação · 2025
 
 ---
 
